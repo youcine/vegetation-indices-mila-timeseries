@@ -1,4 +1,4 @@
-# Vegetation Indices Time-Series Analysis — Mila Province, Algeria
+# Vegetation Indices Time-Series Analysis; Mila Province, Algeria
 
 Monitoring vegetation dynamics in Mila Province, Algeria, using Sentinel-2
 imagery (2022–2024): computing NDVI, EVI, and SAVI, building their time
@@ -23,12 +23,12 @@ vegetation change between 2022 and 2024.
 
 ## Key Results
 
-- NDVI averaged ~0.13, EVI ~0.17, SAVI ~0.11 over 2022–2024 — consistent with
+- NDVI averaged ~0.13, EVI ~0.17, SAVI ~0.11 over 2022–2024 consistent with
   a semi-arid landscape of sparse/seasonal vegetation over bare soil.
 - All three indices show a clear, repeating annual cycle (spring peak,
   summer decline, winter recovery).
 - A trend + seasonality regression on NDVI found an estimated trend of
-  **-0.00101 per year** (R² = 0.504) — statistically negligible relative to
+  **-0.00101 per year** (R² = 0.504) statistically negligible relative to
   NDVI's own variability, indicating **no meaningful multi-year greening or
   degradation** over the study period.
 - The 2022→2024 delta-NDVI map shows no significant land-use change within
